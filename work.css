@@ -1,0 +1,15 @@
+header {
+    background-color: aqua;
+    padding: 60px;
+    text-align: center;
+    font-size: 200%;
+}
+h1 {
+    color:red ;
+}
+body {
+    background-color: bisque;
+}
+p {
+    font-size: 20px;
+}
